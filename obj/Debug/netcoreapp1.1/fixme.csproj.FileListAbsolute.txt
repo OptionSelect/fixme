@@ -1,0 +1,8 @@
+/Users/brandyn/dotnet/fixme/bin/Debug/netcoreapp1.1/fixme.deps.json
+/Users/brandyn/dotnet/fixme/bin/Debug/netcoreapp1.1/fixme.runtimeconfig.json
+/Users/brandyn/dotnet/fixme/bin/Debug/netcoreapp1.1/fixme.runtimeconfig.dev.json
+/Users/brandyn/dotnet/fixme/bin/Debug/netcoreapp1.1/fixme.dll
+/Users/brandyn/dotnet/fixme/bin/Debug/netcoreapp1.1/fixme.pdb
+/Users/brandyn/dotnet/fixme/obj/Debug/netcoreapp1.1/fixme.AssemblyInfo.cs
+/Users/brandyn/dotnet/fixme/obj/Debug/netcoreapp1.1/fixme.dll
+/Users/brandyn/dotnet/fixme/obj/Debug/netcoreapp1.1/fixme.pdb
